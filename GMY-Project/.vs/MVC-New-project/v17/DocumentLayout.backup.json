@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Migrations\\20250516154705_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC-New-project\\Migrations\\20250516154705_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\models\\gymprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\models\\gymprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\viewmodels\\updateprogramvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\viewmodels\\updateprogramvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|c:\\users\\hp\\desktop\\mvc\\gmy-project\\mvc-new-project\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9566C53-E8AC-4FE4-A380-388B1C81116B}|MVC-New-project\\MVC-New-project.csproj|solutionrelative:mvc-new-project\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T16:00:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAABAMzMzMzMrwDoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T15:59:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwCYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T15:55:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250516154705_create.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Migrations\\20250516154705_create.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Migrations\\20250516154705_create.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Migrations\\20250516154705_create.cs",
+              "RelativeToolTip": "MVC-New-project\\Migrations\\20250516154705_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:47:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "MVC-New-project\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:32:05.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:37:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GymProgram.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Models\\GymProgram.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Models\\GymProgram.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Models\\GymProgram.cs",
+              "RelativeToolTip": "MVC-New-project\\Models\\GymProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:32:52.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:59:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MVC-New-project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABUAAAAQAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:09:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProgramVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\ViewModels\\UpdateProgramVM.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\ViewModels\\UpdateProgramVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\ViewModels\\UpdateProgramVM.cs",
+              "RelativeToolTip": "MVC-New-project\\ViewModels\\UpdateProgramVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:00:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProgramService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Services\\ProgramService.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Services\\ProgramService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Services\\ProgramService.cs",
+              "RelativeToolTip": "MVC-New-project\\Services\\ProgramService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwDAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:51:50.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "MVC-New-project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:10:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC-New-project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GMY-Project\\MVC-New-project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC-New-project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:52:19.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

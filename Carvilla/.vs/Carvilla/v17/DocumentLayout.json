@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\viewmodels\\carupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\viewmodels\\carupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\services\\carsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\services\\carsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\viewmodels\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\viewmodels\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|c:\\users\\ii novbe\\desktop\\mvc\\carvilla\\carvilla\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D085A09E-A6F7-4D86-B18B-B1EDA2F546A5}|Carvilla\\Carvilla.csproj|solutionrelative:carvilla\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Carvilla\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Models\\Car.cs",
+              "RelativeToolTip": "Carvilla\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:43:12.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Carvilla\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:55:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Carvilla\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAcwK0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:54:54.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Carvilla\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwOkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:54:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarSevice.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Services\\CarSevice.cs",
+              "RelativeDocumentMoniker": "Carvilla\\Services\\CarSevice.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Services\\CarSevice.cs",
+              "RelativeToolTip": "Carvilla\\Services\\CarSevice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:25:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\ViewModels\\CarUpdateVM.cs",
+              "RelativeDocumentMoniker": "Carvilla\\ViewModels\\CarUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\ViewModels\\CarUpdateVM.cs",
+              "RelativeToolTip": "Carvilla\\ViewModels\\CarUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:23:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeToolTip": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:21:08.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\ViewModels\\CarCreateVM.cs",
+              "RelativeDocumentMoniker": "Carvilla\\ViewModels\\CarCreateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\ViewModels\\CarCreateVM.cs",
+              "RelativeToolTip": "Carvilla\\ViewModels\\CarCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:54:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Carvilla\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Carvilla\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:42:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:42:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Carvilla\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:42:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Carvilla\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:57:48.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Carvilla\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC\\Carvilla\\Carvilla\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Carvilla\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:21:21.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

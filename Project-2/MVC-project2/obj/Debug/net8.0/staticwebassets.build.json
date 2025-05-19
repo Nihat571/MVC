@@ -1,0 +1,2494 @@
+{
+  "Version": 1,
+  "Hash": "Jjw7jDxcnpFuCFeOK0pIzfXrALMsI1akpOi4zlHd1Go=",
+  "Source": "MVC-project2",
+  "BasePath": "_content/MVC-project2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC-project2\\wwwroot",
+      "Source": "MVC-project2",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\bootstrap.css",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/font-awesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rf9f4pws8w",
+      "Integrity": "eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\responsive.css",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2erj84pr3",
+      "Integrity": "9+w4xpJly0j+zXmQs3hxG/YM1tzdZHRO4g129oC/v3w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bok8ji0ste",
+      "Integrity": "q5XAWQ7a45YomlEGxNmF8FmxsyVhJsOK8iXH7iFq1gQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css.map",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "inf4e51yp1",
+      "Integrity": "wkWAXPNL3k+ZPf3c05HgkiX4HtPr8lEB8ItmRZdmwCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.scss",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifas48njch",
+      "Integrity": "zvdoITm8LA9gTyNFcK3Wlv4rp8abrrkBXtYDsaOcJeA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\about-img.jpg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/about-img#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57crpzi8g3",
+      "Integrity": "f0TKKk//aj7MweQQ5D5Ua/F2NHMslFuhi7Xl4ZHYz7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\about-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-1.jpg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/client-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tvgjer2lt8",
+      "Integrity": "x6k1DpYj7oLiCSBZKikbVoRyVgBwx//J61H/+J4hjUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\client-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-2.jpg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/client-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "185ajjrh1f",
+      "Integrity": "D7jR1ToQfwSPT08NoaU2Wkv/qzXzyfI57AUPLVjs02k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\client-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\construction.svg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/construction#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jya7235q7q",
+      "Integrity": "xc6qoku7qSiZ6CiOoJIlONQ7gqFwttvQ4XFHHsTPSX8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\construction.svg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\logo.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pq9h3g5tqs",
+      "Integrity": "bwHa9/tTXvy0Hm76mPQxBYq2hs7LHf+mX2z8CpgLta4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\maintenance.svg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/maintenance#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fqovdavfx",
+      "Integrity": "wM4JlN6LEsQRRPgSKvhZKYtMCcdI7rMbRzmuMXnfOi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\professional-img.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/professional-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ratqli2mid",
+      "Integrity": "03NKPgaVdiNJE1BMj+m043D0c5E2Xi280UzzMZpYJUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\professional-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s1.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/s1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8ewvjmz5e",
+      "Integrity": "ENsmGSX0h1Y7f6wclvQlWobx+ZHDhsrmRHCMbsOmGAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\s1.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s2.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/s2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbiza6z1xd",
+      "Integrity": "hybUm0oa5dvZfhxppL9bgjJUi+M8MkARslF4Bla642k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\s2.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s3.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/s3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0x2empblaj",
+      "Integrity": "vC9B63mEVGbRDDQuMUr2bgeBeTN8nAAwIipZBbxDrAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\s3.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\slider-img.png",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/slider-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xziy1xepra",
+      "Integrity": "rXkb4jbslgVnN4+TPLyXzKVp0uXtD01jggU0Jcf5pt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slider-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\tools.svg",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/images/tools#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0e0mypqgvx",
+      "Integrity": "eLEPNO6309IPnLAQ3XxLaPRkf76u2h7xP7meDwSswZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\tools.svg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\bootstrap.js",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ytcjd7zkz9",
+      "Integrity": "Sl+XpYqDtyiaOWsY3wdbyKFzdr9qX7fUfIOySDPL4Hg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "huzoaljcst",
+      "Integrity": "h0Z1HNBkB12o61kREgH1q68NKs0wOZP8WckIPO02qls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "SourceId": "MVC-project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\",
+      "BasePath": "_content/MVC-project2",
+      "RelativePath": "assets/js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6rpaas0a0",
+      "Integrity": "KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.4.1.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Feb 2019 14:47:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Feb 2019 14:47:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/font-awesome.min.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/font-awesome.min.rf9f4pws8w.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/font-awesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/responsive.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9+w4xpJly0j+zXmQs3hxG/YM1tzdZHRO4g129oC/v3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9+w4xpJly0j+zXmQs3hxG/YM1tzdZHRO4g129oC/v3w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/responsive.x2erj84pr3.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9+w4xpJly0j+zXmQs3hxG/YM1tzdZHRO4g129oC/v3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2erj84pr3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9+w4xpJly0j+zXmQs3hxG/YM1tzdZHRO4g129oC/v3w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.bok8ji0ste.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q5XAWQ7a45YomlEGxNmF8FmxsyVhJsOK8iXH7iFq1gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bok8ji0ste"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q5XAWQ7a45YomlEGxNmF8FmxsyVhJsOK8iXH7iFq1gQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.css",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q5XAWQ7a45YomlEGxNmF8FmxsyVhJsOK8iXH7iFq1gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q5XAWQ7a45YomlEGxNmF8FmxsyVhJsOK8iXH7iFq1gQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.css.inf4e51yp1.map",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkWAXPNL3k+ZPf3c05HgkiX4HtPr8lEB8ItmRZdmwCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inf4e51yp1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkWAXPNL3k+ZPf3c05HgkiX4HtPr8lEB8ItmRZdmwCs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.css.map",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkWAXPNL3k+ZPf3c05HgkiX4HtPr8lEB8ItmRZdmwCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkWAXPNL3k+ZPf3c05HgkiX4HtPr8lEB8ItmRZdmwCs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.ifas48njch.scss",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zvdoITm8LA9gTyNFcK3Wlv4rp8abrrkBXtYDsaOcJeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifas48njch"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zvdoITm8LA9gTyNFcK3Wlv4rp8abrrkBXtYDsaOcJeA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.scss",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zvdoITm8LA9gTyNFcK3Wlv4rp8abrrkBXtYDsaOcJeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 12:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zvdoITm8LA9gTyNFcK3Wlv4rp8abrrkBXtYDsaOcJeA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.eyrbpue749.woff",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/fontawesome-webfont.yex6mt8az7.ttf",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Aug 2019 17:35:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/about-img.57crpzi8g3.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\about-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0TKKk//aj7MweQQ5D5Ua/F2NHMslFuhi7Xl4ZHYz7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 09:53:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57crpzi8g3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/about-img.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0TKKk//aj7MweQQ5D5Ua/F2NHMslFuhi7Xl4ZHYz7c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/about-img.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\about-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0TKKk//aj7MweQQ5D5Ua/F2NHMslFuhi7Xl4ZHYz7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 09:53:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0TKKk//aj7MweQQ5D5Ua/F2NHMslFuhi7Xl4ZHYz7c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/client-1.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6k1DpYj7oLiCSBZKikbVoRyVgBwx//J61H/+J4hjUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 11:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6k1DpYj7oLiCSBZKikbVoRyVgBwx//J61H/+J4hjUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/client-1.tvgjer2lt8.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6k1DpYj7oLiCSBZKikbVoRyVgBwx//J61H/+J4hjUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 11:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvgjer2lt8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/client-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6k1DpYj7oLiCSBZKikbVoRyVgBwx//J61H/+J4hjUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/client-2.185ajjrh1f.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7jR1ToQfwSPT08NoaU2Wkv/qzXzyfI57AUPLVjs02k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 11:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "185ajjrh1f"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/client-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7jR1ToQfwSPT08NoaU2Wkv/qzXzyfI57AUPLVjs02k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/client-2.jpg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\client-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7jR1ToQfwSPT08NoaU2Wkv/qzXzyfI57AUPLVjs02k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 11:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7jR1ToQfwSPT08NoaU2Wkv/qzXzyfI57AUPLVjs02k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/construction.jya7235q7q.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\construction.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xc6qoku7qSiZ6CiOoJIlONQ7gqFwttvQ4XFHHsTPSX8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:36:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jya7235q7q"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/construction.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xc6qoku7qSiZ6CiOoJIlONQ7gqFwttvQ4XFHHsTPSX8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/construction.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\construction.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xc6qoku7qSiZ6CiOoJIlONQ7gqFwttvQ4XFHHsTPSX8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:36:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xc6qoku7qSiZ6CiOoJIlONQ7gqFwttvQ4XFHHsTPSX8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/logo.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwHa9/tTXvy0Hm76mPQxBYq2hs7LHf+mX2z8CpgLta4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 09:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwHa9/tTXvy0Hm76mPQxBYq2hs7LHf+mX2z8CpgLta4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/logo.pq9h3g5tqs.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwHa9/tTXvy0Hm76mPQxBYq2hs7LHf+mX2z8CpgLta4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 09:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pq9h3g5tqs"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwHa9/tTXvy0Hm76mPQxBYq2hs7LHf+mX2z8CpgLta4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/maintenance.4fqovdavfx.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\maintenance.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wM4JlN6LEsQRRPgSKvhZKYtMCcdI7rMbRzmuMXnfOi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fqovdavfx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/maintenance.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wM4JlN6LEsQRRPgSKvhZKYtMCcdI7rMbRzmuMXnfOi8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/maintenance.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\maintenance.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wM4JlN6LEsQRRPgSKvhZKYtMCcdI7rMbRzmuMXnfOi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wM4JlN6LEsQRRPgSKvhZKYtMCcdI7rMbRzmuMXnfOi8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/professional-img.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\professional-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"03NKPgaVdiNJE1BMj+m043D0c5E2Xi280UzzMZpYJUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 10:20:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-03NKPgaVdiNJE1BMj+m043D0c5E2Xi280UzzMZpYJUA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/professional-img.ratqli2mid.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\professional-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"03NKPgaVdiNJE1BMj+m043D0c5E2Xi280UzzMZpYJUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 10:20:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ratqli2mid"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/professional-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-03NKPgaVdiNJE1BMj+m043D0c5E2Xi280UzzMZpYJUA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s1.g8ewvjmz5e.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENsmGSX0h1Y7f6wclvQlWobx+ZHDhsrmRHCMbsOmGAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8ewvjmz5e"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/s1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENsmGSX0h1Y7f6wclvQlWobx+ZHDhsrmRHCMbsOmGAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s1.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENsmGSX0h1Y7f6wclvQlWobx+ZHDhsrmRHCMbsOmGAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENsmGSX0h1Y7f6wclvQlWobx+ZHDhsrmRHCMbsOmGAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s2.dbiza6z1xd.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hybUm0oa5dvZfhxppL9bgjJUi+M8MkARslF4Bla642k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbiza6z1xd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/s2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hybUm0oa5dvZfhxppL9bgjJUi+M8MkARslF4Bla642k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s2.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hybUm0oa5dvZfhxppL9bgjJUi+M8MkARslF4Bla642k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hybUm0oa5dvZfhxppL9bgjJUi+M8MkARslF4Bla642k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s3.0x2empblaj.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vC9B63mEVGbRDDQuMUr2bgeBeTN8nAAwIipZBbxDrAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:56:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0x2empblaj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/s3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vC9B63mEVGbRDDQuMUr2bgeBeTN8nAAwIipZBbxDrAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/s3.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\s3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vC9B63mEVGbRDDQuMUr2bgeBeTN8nAAwIipZBbxDrAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 11:56:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vC9B63mEVGbRDDQuMUr2bgeBeTN8nAAwIipZBbxDrAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slider-img.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXkb4jbslgVnN4+TPLyXzKVp0uXtD01jggU0Jcf5pt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 06:50:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXkb4jbslgVnN4+TPLyXzKVp0uXtD01jggU0Jcf5pt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slider-img.xziy1xepra.png",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXkb4jbslgVnN4+TPLyXzKVp0uXtD01jggU0Jcf5pt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 06:50:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xziy1xepra"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slider-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXkb4jbslgVnN4+TPLyXzKVp0uXtD01jggU0Jcf5pt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/tools.0e0mypqgvx.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\tools.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eLEPNO6309IPnLAQ3XxLaPRkf76u2h7xP7meDwSswZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0e0mypqgvx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/tools.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLEPNO6309IPnLAQ3XxLaPRkf76u2h7xP7meDwSswZY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/tools.svg",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\images\\tools.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eLEPNO6309IPnLAQ3XxLaPRkf76u2h7xP7meDwSswZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 07:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLEPNO6309IPnLAQ3XxLaPRkf76u2h7xP7meDwSswZY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sl+XpYqDtyiaOWsY3wdbyKFzdr9qX7fUfIOySDPL4Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Sep 2020 05:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sl+XpYqDtyiaOWsY3wdbyKFzdr9qX7fUfIOySDPL4Hg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.ytcjd7zkz9.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sl+XpYqDtyiaOWsY3wdbyKFzdr9qX7fUfIOySDPL4Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Sep 2020 05:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ytcjd7zkz9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sl+XpYqDtyiaOWsY3wdbyKFzdr9qX7fUfIOySDPL4Hg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.huzoaljcst.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0Z1HNBkB12o61kREgH1q68NKs0wOZP8WckIPO02qls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 14:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "huzoaljcst"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0Z1HNBkB12o61kREgH1q68NKs0wOZP8WckIPO02qls="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0Z1HNBkB12o61kREgH1q68NKs0wOZP8WckIPO02qls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2020 14:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0Z1HNBkB12o61kREgH1q68NKs0wOZP8WckIPO02qls="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-3.4.1.min.d6rpaas0a0.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Aug 2019 10:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6rpaas0a0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery-3.4.1.min.js",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Aug 2019 10:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    }
+  ]
+}

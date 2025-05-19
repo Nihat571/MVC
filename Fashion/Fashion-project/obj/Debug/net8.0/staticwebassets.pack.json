@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tooplate-little-fashion.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\businesspeople-meeting-office-working.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\portrait-british-woman.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\Headroom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jQuery.headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Fashion-Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Fashion-Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Fashion-Project.props",
+      "PackagePath": "build\\Fashion-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Fashion-Project.props",
+      "PackagePath": "buildMultiTargeting\\Fashion-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Fashion-Project.props",
+      "PackagePath": "buildTransitive\\Fashion-Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

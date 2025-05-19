@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC-TASK1.props" />
+</Project>

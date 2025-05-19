@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\viewmodels\\updatecartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\viewmodels\\updatecartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\viewmodels\\createcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\viewmodels\\createcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\services\\causecartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\services\\causecartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\models\\causecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\models\\causecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|c:\\users\\ii novbe\\source\\repos\\charity-project\\charity-project\\areas\\admin\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21CE9FE-EA15-4D6B-8CC2-59474D88D7A8}|Charity-Project\\Charity-Project.csproj|solutionrelative:charity-project\\areas\\admin\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Charity-Project\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:25:25.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CauseCart.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Models\\CauseCart.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\Models\\CauseCart.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Models\\CauseCart.cs",
+              "RelativeToolTip": "Charity-Project\\Models\\CauseCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:23:38.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T14:06:37.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\ViewModels\\UpdateCartVM.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\ViewModels\\UpdateCartVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\ViewModels\\UpdateCartVM.cs",
+              "RelativeToolTip": "Charity-Project\\ViewModels\\UpdateCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:42:07.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:10:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:10:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CauseCartService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Services\\CauseCartService.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\Services\\CauseCartService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Services\\CauseCartService.cs",
+              "RelativeToolTip": "Charity-Project\\Services\\CauseCartService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:04:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:00:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\ViewModels\\CreateCartVM.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\ViewModels\\CreateCartVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\ViewModels\\CreateCartVM.cs",
+              "RelativeToolTip": "Charity-Project\\ViewModels\\CreateCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:57:51.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:27:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Charity-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Charity-Project\\Charity-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Charity-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:27:19.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

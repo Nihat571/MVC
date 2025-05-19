@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\areas\\admin\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\areas\\admin\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\contexts\\flowersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\contexts\\flowersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\forella\\forella\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADF0516-0C85-4DA0-A125-3B7C8A1480A8}|Forella\\Forella.csproj|solutionrelative:forella\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Program.cs",
+              "RelativeDocumentMoniker": "Forella\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Program.cs",
+              "RelativeToolTip": "Forella\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:13:11.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Forella\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeToolTip": "Forella\\Areas\\Admin\\Views\\Dashboard\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:10:53.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Forella\\Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Forella\\Services\\FlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:37:59.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Forella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Forella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:59:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Forella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Forella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T10:45:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Forella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Forella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T10:42:57.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowersDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Contexts\\FlowersDBContext.cs",
+              "RelativeDocumentMoniker": "Forella\\Contexts\\FlowersDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Contexts\\FlowersDBContext.cs",
+              "RelativeToolTip": "Forella\\Contexts\\FlowersDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:41:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Forella\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Forella\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:44:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "Forella\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Forella\\Forella\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "Forella\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T11:31:56.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

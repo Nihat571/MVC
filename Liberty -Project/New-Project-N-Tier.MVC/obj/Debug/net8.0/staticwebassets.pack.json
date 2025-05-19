@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\css\\templatemo-liberty-market.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-liberty-market.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\author-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\author-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\banner-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\banner-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\category-collection-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category-collection-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\collection-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\create-yours.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\create-yours.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\current-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\current-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\current-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\current-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\dark-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dark-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\discover-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\featured-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\featured-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\featured-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\featured-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-05.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\icon-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-06.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\item-details-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-details-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\main-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\market-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\market-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\images\\single-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\File00ccf08e-49a2-4f93-9bbf-5a349b6f8d58",
+      "PackagePath": "staticwebassets\\assets\\uploadImages"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\File1305287f-e451-46e5-a945-a1d4ca57119a",
+      "PackagePath": "staticwebassets\\assets\\uploadImages"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\Filead9c015d-fc07-4158-b642-0cdb68e3cf61",
+      "PackagePath": "staticwebassets\\assets\\uploadImages"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\Filed6176ac6-e14b-4eda-adbc-76a4a28d65c5",
+      "PackagePath": "staticwebassets\\assets\\uploadImages"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\Filef877b020-0214-48ad-8f29-833ac0496ee6",
+      "PackagePath": "staticwebassets\\assets\\uploadImages"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author-0261695709-689f-4795-bf24-40141058b1b1.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author-0261695709-689f-4795-bf24-40141058b1b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author-0328360451-2548-4884-88ea-579dc7927d04.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author-0328360451-2548-4884-88ea-579dc7927d04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author-0380f82d36-aff4-4671-b56c-888f4409f55c.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author-0380f82d36-aff4-4671-b56c-888f4409f55c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author-03cf8fc71b-aa65-4b7e-966e-dccf4419e998.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author-03cf8fc71b-aa65-4b7e-966e-dccf4419e998.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author-03e5c68868-cd8a-423b-9a3c-c561f37eb90d.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author-03e5c68868-cd8a-423b-9a3c-c561f37eb90d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author533aa84d-0f89-4df0-86fb-e3d191210886.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author533aa84d-0f89-4df0-86fb-e3d191210886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author5faf29f7-8744-4b35-8b31-c702c1d6ea60.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author5faf29f7-8744-4b35-8b31-c702c1d6ea60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author675923ab-5522-4cf2-a8e5-a5f407d4a91f.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author675923ab-5522-4cf2-a8e5-a5f407d4a91f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author68f2015a-4bfc-4842-9f89-e9713483ea0c.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author68f2015a-4bfc-4842-9f89-e9713483ea0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author77979855-8169-4f9f-b3da-81161a6ba73b.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author77979855-8169-4f9f-b3da-81161a6ba73b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\author8efffb3d-32a4-45a3-9106-b6f11c278c09.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\author8efffb3d-32a4-45a3-9106-b6f11c278c09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\banner-011403503e-1c6f-45ac-ad9e-828f1274decd.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\banner-011403503e-1c6f-45ac-ad9e-828f1274decd.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\banner-01185152d1-5d09-48d7-8064-a347af70f19c.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\banner-01185152d1-5d09-48d7-8064-a347af70f19c.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\banner-024237270d-5f8b-443e-b3bb-eaa48466ac31.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\banner-024237270d-5f8b-443e-b3bb-eaa48466ac31.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\banner-02ce79e708-26b2-4eb1-b3d5-0c5574a5a619.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\banner-02ce79e708-26b2-4eb1-b3d5-0c5574a5a619.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\collection-01c14afc54-9841-418e-b299-a68869c8809f.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\collection-01c14afc54-9841-418e-b299-a68869c8809f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\current-020578bdfe-bc2f-4703-b654-1e55ec45918f.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\current-020578bdfe-bc2f-4703-b654-1e55ec45918f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\current-0217b66f7d-f53a-4a2e-bf59-2a51d5f77067.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\current-0217b66f7d-f53a-4a2e-bf59-2a51d5f77067.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\current-0231bbb3ad-4ebe-4256-82ed-89c117bfea24.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\current-0231bbb3ad-4ebe-4256-82ed-89c117bfea24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\features-first-icon57121764-8865-4c1e-8e5b-79ccf8718788.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\features-first-icon57121764-8865-4c1e-8e5b-79ccf8718788.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\features-first-icon74a7bd2f-afb6-4b69-84a5-e69dc7d021fa.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\features-first-icon74a7bd2f-afb6-4b69-84a5-e69dc7d021fa.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\features-first-icon9cff1560-666e-4cad-af6a-c7fc9b6d3fe4.png",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\features-first-icon9cff1560-666e-4cad-af6a-c7fc9b6d3fe4.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\uploadImages\\first-trainer7820ceb9-40f4-495d-8df2-5b54b483a7ee.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadImages\\first-trainer7820ceb9-40f4-495d-8df2-5b54b483a7ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\New-Project-N-Tier\\New-Project-N-Tier.MVC\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.New-Project-N-Tier.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.New-Project-N-Tier.MVC.props",
+      "PackagePath": "build\\New-Project-N-Tier.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.New-Project-N-Tier.MVC.props",
+      "PackagePath": "buildMultiTargeting\\New-Project-N-Tier.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.New-Project-N-Tier.MVC.props",
+      "PackagePath": "buildTransitive\\New-Project-N-Tier.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

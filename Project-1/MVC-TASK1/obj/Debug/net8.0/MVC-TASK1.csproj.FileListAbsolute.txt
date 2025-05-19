@@ -1,0 +1,61 @@
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\appsettings.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.exe
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.deps.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.runtimeconfig.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.dll
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.pdb
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.MVC-TASK1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC-TASK1.props
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC-TASK1.props
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC-TASK1.props
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\scopedcss\bundle\MVC-TASK1.styles.css
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.dll
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\refint\MVC-TASK1.dll
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.pdb
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\ref\MVC-TASK1.dll
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.RazorAssemblyInfo.cache
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.RazorAssemblyInfo.cs
+C:\Users\II Novbe\source\repos\MVC-TASK1\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.staticwebassets.runtime.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.staticwebassets.runtime.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.exe
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.deps.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.runtimeconfig.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.dll
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\bin\Debug\net8.0\MVC-TASK1.pdb
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.sourcelink.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\scopedcss\bundle\MVC-TASK1.styles.css
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.MVC-TASK1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.MVC-TASK1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC-TASK1.props
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC-TASK1.props
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC-TASK1.props
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.dll
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\refint\MVC-TASK1.dll
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.pdb
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\MVC-TASK1.genruntimeconfig.cache
+C:\Users\HP\Desktop\MVC-FIRST\MVC-TASK1\obj\Debug\net8.0\ref\MVC-TASK1.dll

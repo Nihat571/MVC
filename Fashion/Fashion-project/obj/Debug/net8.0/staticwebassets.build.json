@@ -1,0 +1,3730 @@
+{
+  "Version": 1,
+  "Hash": "4Q7u8+TCMCsJL0lR8VPlV1h4ffmQdj/IQcsq6nwjuuc=",
+  "Source": "Fashion-Project",
+  "BasePath": "_content/Fashion-Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Fashion-Project\\wwwroot",
+      "Source": "Fashion-Project",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81dme5qsp1",
+      "Integrity": "hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/css/bootstrap-icons#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5lqd4to48i",
+      "Integrity": "J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\slick.css",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/css/slick#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmzakapvcy",
+      "Integrity": "3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/css/tooplate-little-fashion#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3j4uy9itl",
+      "Integrity": "vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\tooplate-little-fashion.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1b328vrd37",
+      "Integrity": "w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umcyo9ouu3",
+      "Integrity": "dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/cody-lannom-G95AReIh_Ko-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mo64r4vnjs",
+      "Integrity": "KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/header/businesspeople-meeting-office-working#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59pkx20wny",
+      "Integrity": "JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/header/positive-european-woman-has-break-after-work#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fn2v2ltpa8",
+      "Integrity": "K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/people/beautiful-woman-face-portrait-brown-background#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwws3rqi65",
+      "Integrity": "kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/people/portrait-british-woman#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbvqktsxv4",
+      "Integrity": "8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6hxkccjbx4",
+      "Integrity": "hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ureq322xt",
+      "Integrity": "kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/pim-chu-z6NZ76_UTDI-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wmr8kwesfk",
+      "Integrity": "6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2z9mt0g2iu",
+      "Integrity": "Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eafjoa8xld",
+      "Integrity": "JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2jebdw1ir",
+      "Integrity": "C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "idoj3e44yn",
+      "Integrity": "Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7dd1u6y32",
+      "Integrity": "1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b2nz5by9xm",
+      "Integrity": "g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/retail-shop-owner-mask-social-distancing-shopping#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "monvjre8is",
+      "Integrity": "pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l21469tfj8",
+      "Integrity": "kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/slideshow/medium-shot-business-women-high-five#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1n757ci60",
+      "Integrity": "alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/slideshow/team-meeting-renewable-energy-project#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eq0r2qcb6z",
+      "Integrity": "ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/images/slideshow/two-business-partners-working-together-office-computer#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7c1pd3isr1",
+      "Integrity": "Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngft4x55fs",
+      "Integrity": "edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rv5y1ni2i",
+      "Integrity": "Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\Headroom.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/Headroom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ke085ir2u3",
+      "Integrity": "DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\Headroom.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/jQuery.headroom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0vzykrmdro",
+      "Integrity": "9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jQuery.headroom.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jquery.min.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc7v1wgpvn",
+      "Integrity": "BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\slick.min.js",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/js/slick.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vxybdbzmv",
+      "Integrity": "DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\slick.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/uploadedImages/clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hlhx3iabt1",
+      "Integrity": "VaJI7r3cVmVhnjhfU5ARK2TF3fKe5FT6wHqipkZuWZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/uploadedImages/clother23699a6af-7ede-4bc8-85ec-435a1a89440b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wb667uypx6",
+      "Integrity": "jGQ0+eAxL38WolxFbx2cf7h/V++bOBTXU+08dvBybkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/uploadedImages/evan-mcdougall-qnh1odlqOmk-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eafjoa8xld",
+      "Integrity": "JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/uploadedImages/nature-zen-3Dn1BZZv3m8-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "idoj3e44yn",
+      "Integrity": "Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "SourceId": "Fashion-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\",
+      "BasePath": "_content/Fashion-Project",
+      "RelativePath": "assets/uploadedImages/quokkabottles-kFc1_G1GvKA-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7dd1u6y32",
+      "Integrity": "1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/css/bootstrap.min.81dme5qsp1.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 May 2021 15:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81dme5qsp1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 May 2021 15:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.5lqd4to48i.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 May 2021 08:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lqd4to48i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 May 2021 08:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slick.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Oct 2017 17:19:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slick.mmzakapvcy.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Oct 2017 17:19:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmzakapvcy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/tooplate-little-fashion.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Dec 2021 12:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/tooplate-little-fashion.w3j4uy9itl.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Dec 2021 12:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3j4uy9itl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/tooplate-little-fashion.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.1b328vrd37.woff",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 May 2021 16:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1b328vrd37"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.umcyo9ouu3.woff2",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 May 2021 16:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umcyo9ouu3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 May 2021 16:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 May 2021 16:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jul 2021 08:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.mo64r4vnjs.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jul 2021 08:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mo64r4vnjs"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/businesspeople-meeting-office-working.59pkx20wny.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 11:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59pkx20wny"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/header/businesspeople-meeting-office-working.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/businesspeople-meeting-office-working.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 11:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/positive-european-woman-has-break-after-work.fn2v2ltpa8.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 11:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fn2v2ltpa8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/header/positive-european-woman-has-break-after-work.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/positive-european-woman-has-break-after-work.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 11:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.iwws3rqi65.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwws3rqi65"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/portrait-british-woman.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/portrait-british-woman.kbvqktsxv4.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbvqktsxv4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/portrait-british-woman.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.6hxkccjbx4.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hxkccjbx4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.7ureq322xt.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ureq322xt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 09:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jul 2021 08:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.wmr8kwesfk.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jul 2021 08:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmr8kwesfk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.2z9mt0g2iu.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:32:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z9mt0g2iu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:32:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.eafjoa8xld.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eafjoa8xld"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.j2jebdw1ir.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 13:55:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2jebdw1ir"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 13:55:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.idoj3e44yn.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "idoj3e44yn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.v7dd1u6y32.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7dd1u6y32"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.b2nz5by9xm.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:45:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2nz5by9xm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:45:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 10:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.monvjre8is.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 Jul 2021 10:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "monvjre8is"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jun 2021 10:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.l21469tfj8.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jun 2021 10:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21469tfj8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/medium-shot-business-women-high-five.m1n757ci60.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1n757ci60"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.eq0r2qcb6z.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eq0r2qcb6z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.7c1pd3isr1.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:26:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c1pd3isr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jul 2021 04:26:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 May 2021 15:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.bundle.min.ngft4x55fs.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 May 2021 15:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngft4x55fs"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.3rv5y1ni2i.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 Jul 2021 09:06:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rv5y1ni2i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 Jul 2021 09:06:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Headroom.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Oct 2018 17:19:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Headroom.ke085ir2u3.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Oct 2018 17:19:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ke085ir2u3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/Headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jQuery.headroom.0vzykrmdro.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Oct 2018 17:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vzykrmdro"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jQuery.headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jQuery.headroom.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Oct 2018 17:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 May 2017 13:39:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.sc7v1wgpvn.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 May 2017 13:39:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc7v1wgpvn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/slick.min.8vxybdbzmv.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Oct 2017 17:19:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vxybdbzmv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/slick.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/slick.min.js",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Oct 2017 17:19:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.hlhx3iabt1.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VaJI7r3cVmVhnjhfU5ARK2TF3fKe5FT6wHqipkZuWZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 16:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hlhx3iabt1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VaJI7r3cVmVhnjhfU5ARK2TF3fKe5FT6wHqipkZuWZs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother1db6ed43a-ee10-4229-8c2a-eca1ed8accb3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VaJI7r3cVmVhnjhfU5ARK2TF3fKe5FT6wHqipkZuWZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 16:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VaJI7r3cVmVhnjhfU5ARK2TF3fKe5FT6wHqipkZuWZs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGQ0+eAxL38WolxFbx2cf7h/V++bOBTXU+08dvBybkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 16:24:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGQ0+eAxL38WolxFbx2cf7h/V++bOBTXU+08dvBybkQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/clother23699a6af-7ede-4bc8-85ec-435a1a89440b.wb667uypx6.jpg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGQ0+eAxL38WolxFbx2cf7h/V++bOBTXU+08dvBybkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 16:24:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wb667uypx6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/clother23699a6af-7ede-4bc8-85ec-435a1a89440b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGQ0+eAxL38WolxFbx2cf7h/V++bOBTXU+08dvBybkQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/evan-mcdougall-qnh1odlqOmk-unsplash.eafjoa8xld.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eafjoa8xld"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/nature-zen-3Dn1BZZv3m8-unsplash.idoj3e44yn.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "idoj3e44yn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jun 2021 12:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/quokkabottles-kFc1_G1GvKA-unsplash.v7dd1u6y32.jpeg",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Fashion-Project\\Fashion-Project\\wwwroot\\assets\\uploadedImages\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jun 2021 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7dd1u6y32"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    }
+  ]
+}

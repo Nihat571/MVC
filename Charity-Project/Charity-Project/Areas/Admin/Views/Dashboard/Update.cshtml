@@ -1,0 +1,50 @@
+﻿@using Charity_Project.Models
+@using Charity_Project.ViewModels
+@model UpdateCartVM
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+
+<div class="d-flex justify-content-center align-items-center w-100 h-100">
+
+    <div class="w-50 bg-success text-light p-5">
+        <h2 class="text-center">Create Cause Cart</h2>
+        <form asp-for="Admin" asp-controller="Dashboard" asp-action="Update" method="post" enctype="multipart/form-data">
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Cause Name</label>
+                <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
+
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Cause Description</label>
+                <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Description">
+
+            </div>
+
+
+            <div class="d-flex justify-content-between">
+                <div>
+                    <label for="exampleInputEmail1">Cause Raised</label>
+                    <input asp-for="RaisedNumber" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Raised">
+                </div>
+
+                <div>
+                    <label for="exampleInputEmail1">Cause Goal</label>
+                    <input asp-for="GoalNumber" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Goal">
+                </div>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="formFile" class="form-label">Default file input example</label>
+                <input class="form-control" asp-for="formFile" id="formFile">
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+

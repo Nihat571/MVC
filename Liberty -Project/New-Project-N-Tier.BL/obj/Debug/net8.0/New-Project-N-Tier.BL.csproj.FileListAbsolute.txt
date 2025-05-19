@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\bin\Debug\net8.0\New-Project-N-Tier.BL.deps.json
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\bin\Debug\net8.0\New-Project-N-Tier.BL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\bin\Debug\net8.0\New-Project-N-Tier.BL.pdb
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\bin\Debug\net8.0\New-Project-N-Tier.DAL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\bin\Debug\net8.0\New-Project-N-Tier.DAL.pdb
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Proj.51C2F054.Up2Date
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\refint\New-Project-N-Tier.BL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\New-Project-N-Tier.BL.pdb
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.BL\obj\Debug\net8.0\ref\New-Project-N-Tier.BL.dll

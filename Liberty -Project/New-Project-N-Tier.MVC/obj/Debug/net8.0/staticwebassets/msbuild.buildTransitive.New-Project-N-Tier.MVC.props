@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\New-Project-N-Tier.MVC.props" />
+</Project>

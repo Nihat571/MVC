@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\o3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\o3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p7.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\p8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\p8.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\MVC-FIRST\\MVC-TASK1\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC-TASK1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC-TASK1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC-TASK1.props",
+      "PackagePath": "build\\MVC-TASK1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC-TASK1.props",
+      "PackagePath": "buildMultiTargeting\\MVC-TASK1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC-TASK1.props",
+      "PackagePath": "buildTransitive\\MVC-TASK1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

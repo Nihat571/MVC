@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\bin\Debug\net8.0\New-Project-N-Tier.DAL.deps.json
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\bin\Debug\net8.0\New-Project-N-Tier.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\bin\Debug\net8.0\New-Project-N-Tier.DAL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\bin\Debug\net8.0\New-Project-N-Tier.DAL.pdb
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\refint\New-Project-N-Tier.DAL.dll
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.pdb
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\New-Project-N-Tier.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\New-Project-N-Tier\New-Project-N-Tier.DAL\obj\Debug\net8.0\ref\New-Project-N-Tier.DAL.dll

@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.deps.json
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.dll
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.pdb
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.dll
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\refint\ProjectDAL.dll
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.pdb
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\New project\ProjectDAL\obj\Debug\net8.0\ref\ProjectDAL.dll

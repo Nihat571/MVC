@@ -1,0 +1,796 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC\u002BjUaltpwc4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"261468"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC\u002BjUaltpwc4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/css/styles.xmmtcbucbs.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xmmtcbucbs"},{"Name":"integrity","Value":"sha256-2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC\u002BjUaltpwc4="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"261468"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC\u002BjUaltpwc4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-area-demo.g1bcqwktbt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-area-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g1bcqwktbt"},{"Name":"integrity","Value":"sha256-HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/demo/chart-area-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1584"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-area-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-area-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1584"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-bar-demo.brjq0h443p.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-bar-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brjq0h443p"},{"Name":"integrity","Value":"sha256-efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/demo/chart-bar-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1158"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-bar-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-bar-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1158"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-pie-demo.bjnbpt8phk.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-pie-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bjnbpt8phk"},{"Name":"integrity","Value":"sha256-GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/demo/chart-pie-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"613"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/chart-pie-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-pie-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"613"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/datatables-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\datatables-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fLtBi6irYqHhTELUccxbgafCi\u002B8gsCGq70Q5aL1/CHE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"107"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fLtBi6irYqHhTELUccxbgafCi\u002B8gsCGq70Q5aL1/CHE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/demo/datatables-demo.s2ygsab6ne.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\datatables-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s2ygsab6ne"},{"Name":"integrity","Value":"sha256-fLtBi6irYqHhTELUccxbgafCi\u002B8gsCGq70Q5aL1/CHE="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/demo/datatables-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fLtBi6irYqHhTELUccxbgafCi\u002B8gsCGq70Q5aL1/CHE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/img/error-404-monochrome.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\img\error-404-monochrome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6119"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/img/error-404-monochrome.yp87i3fbss.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\img\error-404-monochrome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yp87i3fbss"},{"Name":"integrity","Value":"sha256-GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/img/error-404-monochrome.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6119"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/js/datatables-simple-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\datatables-simple-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr\u002B8TGcXsE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"321"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr\u002B8TGcXsE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/js/datatables-simple-demo.mrcm95qwwq.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\datatables-simple-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mrcm95qwwq"},{"Name":"integrity","Value":"sha256-3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr\u002B8TGcXsE="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/js/datatables-simple-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"321"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr\u002B8TGcXsE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/js/scripts.1og25pym0p.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1og25pym0p"},{"Name":"integrity","Value":"sha256-4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4="},{"Name":"label","Value":"_content/Carvilla/Admin/assets/js/scripts.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1002"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/Admin/assets/js/scripts.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1002"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 10:08:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/animate.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\animate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6oHmNuACV4qcdm\u002B504sy\u002BTcuu5NBAhEN/27cL3QIEPI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51840"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226oHmNuACV4qcdm\u002B504sy\u002BTcuu5NBAhEN/27cL3QIEPI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/animate.mcx5eyj2mh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\animate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mcx5eyj2mh"},{"Name":"integrity","Value":"sha256-6oHmNuACV4qcdm\u002B504sy\u002BTcuu5NBAhEN/27cL3QIEPI="},{"Name":"label","Value":"_content/Carvilla/assets/css/animate.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51840"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226oHmNuACV4qcdm\u002B504sy\u002BTcuu5NBAhEN/27cL3QIEPI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/bootsnav.62wmrku22u.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootsnav.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"62wmrku22u"},{"Name":"integrity","Value":"sha256-znazF9t48tEfH833/5rXznWu\u002B2HVwuszJhYIDRni2Q8="},{"Name":"label","Value":"_content/Carvilla/assets/css/bootsnav.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35191"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022znazF9t48tEfH833/5rXznWu\u002B2HVwuszJhYIDRni2Q8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/bootsnav.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootsnav.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-znazF9t48tEfH833/5rXznWu\u002B2HVwuszJhYIDRni2Q8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"35191"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022znazF9t48tEfH833/5rXznWu\u002B2HVwuszJhYIDRni2Q8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P9Pi7LIGRQOCjRMiGJu2gdGmTM2cpKz5MNuQFvirVmE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"118733"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022P9Pi7LIGRQOCjRMiGJu2gdGmTM2cpKz5MNuQFvirVmE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/bootstrap.min.d5gsc4tsrn.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d5gsc4tsrn"},{"Name":"integrity","Value":"sha256-P9Pi7LIGRQOCjRMiGJu2gdGmTM2cpKz5MNuQFvirVmE="},{"Name":"label","Value":"_content/Carvilla/assets/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118733"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022P9Pi7LIGRQOCjRMiGJu2gdGmTM2cpKz5MNuQFvirVmE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/flaticon.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\flaticon.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yUhr5PFWq0yKRWX5gEs67KAv0UI9WiKp/Lpj4wzRUio="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1014"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yUhr5PFWq0yKRWX5gEs67KAv0UI9WiKp/Lpj4wzRUio=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/flaticon.jpa0lbkgwx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\flaticon.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jpa0lbkgwx"},{"Name":"integrity","Value":"sha256-yUhr5PFWq0yKRWX5gEs67KAv0UI9WiKp/Lpj4wzRUio="},{"Name":"label","Value":"_content/Carvilla/assets/css/flaticon.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1014"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yUhr5PFWq0yKRWX5gEs67KAv0UI9WiKp/Lpj4wzRUio=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/font-awesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\font-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"31000"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/font-awesome.min.rf9f4pws8w.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\font-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rf9f4pws8w"},{"Name":"integrity","Value":"sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="},{"Name":"label","Value":"_content/Carvilla/assets/css/font-awesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"31000"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/linearicons.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\linearicons.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jbiGnBOnWLNRdGZ3VADbNQ3Tyx75qGxYJIj0HGTuxdM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8896"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jbiGnBOnWLNRdGZ3VADbNQ3Tyx75qGxYJIj0HGTuxdM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/linearicons.xre3v36qx7.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\linearicons.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xre3v36qx7"},{"Name":"integrity","Value":"sha256-jbiGnBOnWLNRdGZ3VADbNQ3Tyx75qGxYJIj0HGTuxdM="},{"Name":"label","Value":"_content/Carvilla/assets/css/linearicons.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8896"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jbiGnBOnWLNRdGZ3VADbNQ3Tyx75qGxYJIj0HGTuxdM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/owl.carousel.min.7wr4bwjh50.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.carousel.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7wr4bwjh50"},{"Name":"integrity","Value":"sha256-N0E3muU4MflPKb7uF\u002BKLRdteklhL2v6UhtzFOCvq454="},{"Name":"label","Value":"_content/Carvilla/assets/css/owl.carousel.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2887"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N0E3muU4MflPKb7uF\u002BKLRdteklhL2v6UhtzFOCvq454=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/owl.carousel.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.carousel.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N0E3muU4MflPKb7uF\u002BKLRdteklhL2v6UhtzFOCvq454="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2887"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N0E3muU4MflPKb7uF\u002BKLRdteklhL2v6UhtzFOCvq454=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/owl.theme.default.min.bvb3mcnxs0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.theme.default.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bvb3mcnxs0"},{"Name":"integrity","Value":"sha256-KWs9jp\u002BjZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="},{"Name":"label","Value":"_content/Carvilla/assets/css/owl.theme.default.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"936"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWs9jp\u002BjZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/owl.theme.default.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.theme.default.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KWs9jp\u002BjZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"936"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWs9jp\u002BjZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/responsive.39lr5jr1of.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\responsive.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"39lr5jr1of"},{"Name":"integrity","Value":"sha256-V\u002BU2XiXBqusCcim8J3387\u002BmLZB0LPI1rj8rhkUI\u002BzV4="},{"Name":"label","Value":"_content/Carvilla/assets/css/responsive.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2958"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022V\u002BU2XiXBqusCcim8J3387\u002BmLZB0LPI1rj8rhkUI\u002BzV4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/responsive.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\responsive.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V\u002BU2XiXBqusCcim8J3387\u002BmLZB0LPI1rj8rhkUI\u002BzV4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2958"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022V\u002BU2XiXBqusCcim8J3387\u002BmLZB0LPI1rj8rhkUI\u002BzV4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oYIw1RxzguJQ27x9uxsP\u002BfsnvPMForoA17Ae1UXjTEA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18116"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022oYIw1RxzguJQ27x9uxsP\u002BfsnvPMForoA17Ae1UXjTEA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/css/style.xw00ybtdmc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xw00ybtdmc"},{"Name":"integrity","Value":"sha256-oYIw1RxzguJQ27x9uxsP\u002BfsnvPMForoA17Ae1UXjTEA="},{"Name":"label","Value":"_content/Carvilla/assets/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18116"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022oYIw1RxzguJQ27x9uxsP\u002BfsnvPMForoA17Ae1UXjTEA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.0404tvohu8.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0404tvohu8"},{"Name":"integrity","Value":"sha256-cE3Sbu6fx33rVQVTbdNxXDYySQLvaxD5VKqVJ3i0lC4="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Flaticon.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022cE3Sbu6fx33rVQVTbdNxXDYySQLvaxD5VKqVJ3i0lC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.brqyk5khbv.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brqyk5khbv"},{"Name":"integrity","Value":"sha256-9wPldSZJ7b4phaRKdkODOgDsKBSNG5DAPQoCSW7akMk="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Flaticon.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11458"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00229wPldSZJ7b4phaRKdkODOgDsKBSNG5DAPQoCSW7akMk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cE3Sbu6fx33rVQVTbdNxXDYySQLvaxD5VKqVJ3i0lC4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022cE3Sbu6fx33rVQVTbdNxXDYySQLvaxD5VKqVJ3i0lC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.fxbwcyckb1.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fxbwcyckb1"},{"Name":"integrity","Value":"sha256-nefKUzY//0PCDzp//BA4sXDMmIni5s1atUSdEB64KqQ="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Flaticon.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2260"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022nefKUzY//0PCDzp//BA4sXDMmIni5s1atUSdEB64KqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9wPldSZJ7b4phaRKdkODOgDsKBSNG5DAPQoCSW7akMk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11458"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00229wPldSZJ7b4phaRKdkODOgDsKBSNG5DAPQoCSW7akMk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H8VcmdKovqHgcCmDMRGDbTjLJRrVIJR4lRopBgyeSX4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3264"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022H8VcmdKovqHgcCmDMRGDbTjLJRrVIJR4lRopBgyeSX4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nefKUzY//0PCDzp//BA4sXDMmIni5s1atUSdEB64KqQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2260"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022nefKUzY//0PCDzp//BA4sXDMmIni5s1atUSdEB64KqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Flaticon.x8iyagu1qp.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Flaticon.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x8iyagu1qp"},{"Name":"integrity","Value":"sha256-H8VcmdKovqHgcCmDMRGDbTjLJRrVIJR4lRopBgyeSX4="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Flaticon.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3264"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022H8VcmdKovqHgcCmDMRGDbTjLJRrVIJR4lRopBgyeSX4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.2hr3gl3r5x.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2hr3gl3r5x"},{"Name":"integrity","Value":"sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/fontawesome-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77160"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.dosqy3kf6t.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dosqy3kf6t"},{"Name":"integrity","Value":"sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/fontawesome-webfont.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"444379"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.eyrbpue749.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eyrbpue749"},{"Name":"integrity","Value":"sha256-ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/fontawesome-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"98024"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.pz0qgnv39v.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pz0qgnv39v"},{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/fontawesome-webfont.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"444379"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165548"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"98024"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77160"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/fontawesome-webfont.yex6mt8az7.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\fontawesome-webfont.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yex6mt8az7"},{"Name":"integrity","Value":"sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/fontawesome-webfont.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165548"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:28:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/FontAwesome.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\FontAwesome.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"134808"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/FontAwesome.sgabxu717i.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\FontAwesome.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sgabxu717i"},{"Name":"integrity","Value":"sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/FontAwesome.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134808"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20127"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"li0e4nnnks"},{"Name":"integrity","Value":"sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/glyphicons-halflings-regular.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45404"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002245UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.masyeah4yd.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"masyeah4yd"},{"Name":"integrity","Value":"sha256-QvYGWdJlwaPDD5\u002BkKry7Vr1KU69Ng9MW1t16NpA8Q\u002BU="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/glyphicons-halflings-regular.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108738"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022QvYGWdJlwaPDD5\u002BkKry7Vr1KU69Ng9MW1t16NpA8Q\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qqew9mh6jt"},{"Name":"integrity","Value":"sha256-omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/glyphicons-halflings-regular.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23424"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QvYGWdJlwaPDD5\u002BkKry7Vr1KU69Ng9MW1t16NpA8Q\u002BU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108738"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022QvYGWdJlwaPDD5\u002BkKry7Vr1KU69Ng9MW1t16NpA8Q\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.torz25362b.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"torz25362b"},{"Name":"integrity","Value":"sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/glyphicons-halflings-regular.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20127"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"45404"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002245UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23424"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18028"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\glyphicons-halflings-regular.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y3zdydnkm9"},{"Name":"integrity","Value":"sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/glyphicons-halflings-regular.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18028"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.3551kjryl7.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3551kjryl7"},{"Name":"integrity","Value":"sha256-R8BH/6Ek\u002B\u002BsqUWwkQRNHKd4lkUZWh6UJAp1JioJiwFA="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Linearicons-Free.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55620"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022R8BH/6Ek\u002B\u002BsqUWwkQRNHKd4lkUZWh6UJAp1JioJiwFA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.9iq48889yu.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9iq48889yu"},{"Name":"integrity","Value":"sha256-MUcoPkd9BNQdpqvLVqjrk/u4aWqsi8fHyx1j3TuDrh4="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Linearicons-Free.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"206045"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022MUcoPkd9BNQdpqvLVqjrk/u4aWqsi8fHyx1j3TuDrh4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-naWs5wxiJarM8ceYc3twUZ8GbiqU3y97FbLF30o6DxQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55820"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022naWs5wxiJarM8ceYc3twUZ8GbiqU3y97FbLF30o6DxQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.nu3xtqy2ce.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nu3xtqy2ce"},{"Name":"integrity","Value":"sha256-vxaUeRtYAZNnxL38vE6F6bL8AuRgtyDMHJwLy\u002BC9R3k="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Linearicons-Free.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55696"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022vxaUeRtYAZNnxL38vE6F6bL8AuRgtyDMHJwLy\u002BC9R3k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.re9vpgu5jx.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"re9vpgu5jx"},{"Name":"integrity","Value":"sha256-naWs5wxiJarM8ceYc3twUZ8GbiqU3y97FbLF30o6DxQ="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Linearicons-Free.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55820"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022naWs5wxiJarM8ceYc3twUZ8GbiqU3y97FbLF30o6DxQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MUcoPkd9BNQdpqvLVqjrk/u4aWqsi8fHyx1j3TuDrh4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"206045"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022MUcoPkd9BNQdpqvLVqjrk/u4aWqsi8fHyx1j3TuDrh4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R8BH/6Ek\u002B\u002BsqUWwkQRNHKd4lkUZWh6UJAp1JioJiwFA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55620"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022R8BH/6Ek\u002B\u002BsqUWwkQRNHKd4lkUZWh6UJAp1JioJiwFA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.vukh3w7pb9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vukh3w7pb9"},{"Name":"integrity","Value":"sha256-KWlF5ZIudk7vF7G0o\u002B4\u002BYNwgKzx/B0FQtiFYkVv3TjM="},{"Name":"label","Value":"_content/Carvilla/assets/fonts/Linearicons-Free.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21780"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022KWlF5ZIudk7vF7G0o\u002B4\u002BYNwgKzx/B0FQtiFYkVv3TjM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vxaUeRtYAZNnxL38vE6F6bL8AuRgtyDMHJwLy\u002BC9R3k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55696"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022vxaUeRtYAZNnxL38vE6F6bL8AuRgtyDMHJwLy\u002BC9R3k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/fonts/Linearicons-Free.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Linearicons-Free.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KWlF5ZIudk7vF7G0o\u002B4\u002BYNwgKzx/B0FQtiFYkVv3TjM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21780"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022KWlF5ZIudk7vF7G0o\u002B4\u002BYNwgKzx/B0FQtiFYkVv3TjM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br1.g3p6b1jqts.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g3p6b1jqts"},{"Name":"integrity","Value":"sha256-jAMHVV8ngFxm09IzxC3BYkktPmf2uxol5aWo\u002BAs4HJU="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4996"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jAMHVV8ngFxm09IzxC3BYkktPmf2uxol5aWo\u002BAs4HJU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jAMHVV8ngFxm09IzxC3BYkktPmf2uxol5aWo\u002BAs4HJU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4996"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jAMHVV8ngFxm09IzxC3BYkktPmf2uxol5aWo\u002BAs4HJU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br2.10dvao63x3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"10dvao63x3"},{"Name":"integrity","Value":"sha256-b\u002BKHdkUgAhi6xdYs9KUHO/ourWXMQrnl6A3HQ5XvsYs="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022b\u002BKHdkUgAhi6xdYs9KUHO/ourWXMQrnl6A3HQ5XvsYs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-b\u002BKHdkUgAhi6xdYs9KUHO/ourWXMQrnl6A3HQ5XvsYs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022b\u002BKHdkUgAhi6xdYs9KUHO/ourWXMQrnl6A3HQ5XvsYs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br3.han4fsbvyc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"han4fsbvyc"},{"Name":"integrity","Value":"sha256-6R2v53yTmB0NHA1uWtLwmeySHeDCFaEi0rK7qzkeVhY="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2955"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226R2v53yTmB0NHA1uWtLwmeySHeDCFaEi0rK7qzkeVhY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6R2v53yTmB0NHA1uWtLwmeySHeDCFaEi0rK7qzkeVhY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2955"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226R2v53yTmB0NHA1uWtLwmeySHeDCFaEi0rK7qzkeVhY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br4.1hlksqbq7q.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1hlksqbq7q"},{"Name":"integrity","Value":"sha256-S\u002BIXIGGyqa2JUcJg9DdF0jxKitfozoEjNasnVqPo/w4="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4257"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022S\u002BIXIGGyqa2JUcJg9DdF0jxKitfozoEjNasnVqPo/w4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S\u002BIXIGGyqa2JUcJg9DdF0jxKitfozoEjNasnVqPo/w4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4257"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022S\u002BIXIGGyqa2JUcJg9DdF0jxKitfozoEjNasnVqPo/w4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br5.owai4bmn9y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"owai4bmn9y"},{"Name":"integrity","Value":"sha256-uLcsRgdCM7NQKuU/UbLJt858qYKBFOxG2JTZFoXzE6Q="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2730"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uLcsRgdCM7NQKuU/UbLJt858qYKBFOxG2JTZFoXzE6Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uLcsRgdCM7NQKuU/UbLJt858qYKBFOxG2JTZFoXzE6Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2730"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uLcsRgdCM7NQKuU/UbLJt858qYKBFOxG2JTZFoXzE6Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br6.jhczrnxnrg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jhczrnxnrg"},{"Name":"integrity","Value":"sha256-97A112fXuWBn5y8pLboN4NPj/WJFvsvTAozGWljcI0E="},{"Name":"label","Value":"_content/Carvilla/assets/images/brand/br6.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3738"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002297A112fXuWBn5y8pLboN4NPj/WJFvsvTAozGWljcI0E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/brand/br6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\brand\br6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-97A112fXuWBn5y8pLboN4NPj/WJFvsvTAozGWljcI0E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3738"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002297A112fXuWBn5y8pLboN4NPj/WJFvsvTAozGWljcI0E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-txUwmyJwmQWjX3m/VIRfBWdj6zLf5x8u7QIMEFFNG5w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9461"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022txUwmyJwmQWjX3m/VIRfBWdj6zLf5x8u7QIMEFFNG5w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c1.x266yho3vv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x266yho3vv"},{"Name":"integrity","Value":"sha256-txUwmyJwmQWjX3m/VIRfBWdj6zLf5x8u7QIMEFFNG5w="},{"Name":"label","Value":"_content/Carvilla/assets/images/clients/c1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9461"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022txUwmyJwmQWjX3m/VIRfBWdj6zLf5x8u7QIMEFFNG5w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ev9KXHTGvdneLCwJD/uuBVHf7yRSoUG\u002Bn4KZ/lYx2E0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Ev9KXHTGvdneLCwJD/uuBVHf7yRSoUG\u002Bn4KZ/lYx2E0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c2.uwlgyfzcsv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uwlgyfzcsv"},{"Name":"integrity","Value":"sha256-Ev9KXHTGvdneLCwJD/uuBVHf7yRSoUG\u002Bn4KZ/lYx2E0="},{"Name":"label","Value":"_content/Carvilla/assets/images/clients/c2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Ev9KXHTGvdneLCwJD/uuBVHf7yRSoUG\u002Bn4KZ/lYx2E0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/atqs5\u002BhHRx7c60ohbJN\u002B5XlRxhf6CvfFC7IYLgCTl0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/atqs5\u002BhHRx7c60ohbJN\u002B5XlRxhf6CvfFC7IYLgCTl0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/clients/c3.xbdmf8b2v1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\clients\c3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbdmf8b2v1"},{"Name":"integrity","Value":"sha256-/atqs5\u002BhHRx7c60ohbJN\u002B5XlRxhf6CvfFC7IYLgCTl0="},{"Name":"label","Value":"_content/Carvilla/assets/images/clients/c3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/atqs5\u002BhHRx7c60ohbJN\u002B5XlRxhf6CvfFC7IYLgCTl0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc1.5urxyu33ie.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5urxyu33ie"},{"Name":"integrity","Value":"sha256-02pvhlGsGx\u002B8ybPUdilSDhlsNXynyVVH/iEyoDoZIjo="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35683"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002202pvhlGsGx\u002B8ybPUdilSDhlsNXynyVVH/iEyoDoZIjo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-02pvhlGsGx\u002B8ybPUdilSDhlsNXynyVVH/iEyoDoZIjo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35683"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002202pvhlGsGx\u002B8ybPUdilSDhlsNXynyVVH/iEyoDoZIjo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc2.0o5y1a2jf3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0o5y1a2jf3"},{"Name":"integrity","Value":"sha256-MDpEqK2hAuYuy8jTyFzwv/Y25WSgSw5Hf/hC9YZnnIc="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37591"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022MDpEqK2hAuYuy8jTyFzwv/Y25WSgSw5Hf/hC9YZnnIc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MDpEqK2hAuYuy8jTyFzwv/Y25WSgSw5Hf/hC9YZnnIc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37591"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022MDpEqK2hAuYuy8jTyFzwv/Y25WSgSw5Hf/hC9YZnnIc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc3.cjllflbedw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cjllflbedw"},{"Name":"integrity","Value":"sha256-SHNZWwqMRP1lKq6p5NuxGbDUJl83xAnxdsWEYIz/6rs="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34421"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SHNZWwqMRP1lKq6p5NuxGbDUJl83xAnxdsWEYIz/6rs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHNZWwqMRP1lKq6p5NuxGbDUJl83xAnxdsWEYIz/6rs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34421"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SHNZWwqMRP1lKq6p5NuxGbDUJl83xAnxdsWEYIz/6rs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc4.570eisp8ar.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"570eisp8ar"},{"Name":"integrity","Value":"sha256-gcrxDImGPrVrNl6FPD53K7k0/HuQEDzF37Hp/GdVnoA="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41495"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gcrxDImGPrVrNl6FPD53K7k0/HuQEDzF37Hp/GdVnoA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gcrxDImGPrVrNl6FPD53K7k0/HuQEDzF37Hp/GdVnoA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41495"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gcrxDImGPrVrNl6FPD53K7k0/HuQEDzF37Hp/GdVnoA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc5.41ej763ug0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"41ej763ug0"},{"Name":"integrity","Value":"sha256-OEPGjLNKFKmENb3q0lGDVuN7rUFCouQfZ\u002BS2IR6KXeI="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36962"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OEPGjLNKFKmENb3q0lGDVuN7rUFCouQfZ\u002BS2IR6KXeI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OEPGjLNKFKmENb3q0lGDVuN7rUFCouQfZ\u002BS2IR6KXeI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36962"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OEPGjLNKFKmENb3q0lGDVuN7rUFCouQfZ\u002BS2IR6KXeI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc6.5ftnuhydo8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5ftnuhydo8"},{"Name":"integrity","Value":"sha256-T\u002BnndXUh3xvB2SKBDmuKHaaDTBiMXptZfoUgK/tCjOU="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc6.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36017"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T\u002BnndXUh3xvB2SKBDmuKHaaDTBiMXptZfoUgK/tCjOU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T\u002BnndXUh3xvB2SKBDmuKHaaDTBiMXptZfoUgK/tCjOU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36017"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T\u002BnndXUh3xvB2SKBDmuKHaaDTBiMXptZfoUgK/tCjOU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc7.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w5BW543gB9yPumVPY/jxYyf3cPiK9zNJXGpPAJlunxI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"43658"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022w5BW543gB9yPumVPY/jxYyf3cPiK9zNJXGpPAJlunxI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc7.tcfuumlmnj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc7.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tcfuumlmnj"},{"Name":"integrity","Value":"sha256-w5BW543gB9yPumVPY/jxYyf3cPiK9zNJXGpPAJlunxI="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc7.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43658"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022w5BW543gB9yPumVPY/jxYyf3cPiK9zNJXGpPAJlunxI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc8.7t91wktvpt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc8.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7t91wktvpt"},{"Name":"integrity","Value":"sha256-62fVdzsHQ4ZCL/aBEJfEAON9wTNLhnxk6vBoko\u002B6ERg="},{"Name":"label","Value":"_content/Carvilla/assets/images/featured-cars/fc8.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36333"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002262fVdzsHQ4ZCL/aBEJfEAON9wTNLhnxk6vBoko\u002B6ERg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/featured-cars/fc8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-cars\fc8.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-62fVdzsHQ4ZCL/aBEJfEAON9wTNLhnxk6vBoko\u002B6ERg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36333"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002262fVdzsHQ4ZCL/aBEJfEAON9wTNLhnxk6vBoko\u002B6ERg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm1.2ncg5gidi7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2ncg5gidi7"},{"Name":"integrity","Value":"sha256-ApejiCysG2jcw9/SDOwFEK7MVItzOddb1PD5C6JMSjw="},{"Name":"label","Value":"_content/Carvilla/assets/images/new-cars-model/ncm1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"244254"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ApejiCysG2jcw9/SDOwFEK7MVItzOddb1PD5C6JMSjw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ApejiCysG2jcw9/SDOwFEK7MVItzOddb1PD5C6JMSjw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"244254"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ApejiCysG2jcw9/SDOwFEK7MVItzOddb1PD5C6JMSjw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm2.3zzs6pwo2y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3zzs6pwo2y"},{"Name":"integrity","Value":"sha256-H2/6milyv/R87SXJx1160riO2mmHP\u002BQQF1PgNj9Q0nU="},{"Name":"label","Value":"_content/Carvilla/assets/images/new-cars-model/ncm2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"249969"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022H2/6milyv/R87SXJx1160riO2mmHP\u002BQQF1PgNj9Q0nU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H2/6milyv/R87SXJx1160riO2mmHP\u002BQQF1PgNj9Q0nU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"249969"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022H2/6milyv/R87SXJx1160riO2mmHP\u002BQQF1PgNj9Q0nU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm3.k8imgiipdd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k8imgiipdd"},{"Name":"integrity","Value":"sha256-1P2NLb8hy01QFE3vuLmOEjCM60W4DVoTVVG5OdXojJg="},{"Name":"label","Value":"_content/Carvilla/assets/images/new-cars-model/ncm3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"248996"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221P2NLb8hy01QFE3vuLmOEjCM60W4DVoTVVG5OdXojJg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/new-cars-model/ncm3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\new-cars-model\ncm3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1P2NLb8hy01QFE3vuLmOEjCM60W4DVoTVVG5OdXojJg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"248996"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221P2NLb8hy01QFE3vuLmOEjCM60W4DVoTVVG5OdXojJg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/welcome-hero/welcome-banner.2ysxwoq34k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\welcome-hero\welcome-banner.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2ysxwoq34k"},{"Name":"integrity","Value":"sha256-Ng\u002BOXAgFPYfktH5EGUNAZJNXbg57pKuSHIA9kidJN/c="},{"Name":"label","Value":"_content/Carvilla/assets/images/welcome-hero/welcome-banner.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ng\u002BOXAgFPYfktH5EGUNAZJNXbg57pKuSHIA9kidJN/c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/images/welcome-hero/welcome-banner.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\welcome-hero\welcome-banner.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ng\u002BOXAgFPYfktH5EGUNAZJNXbg57pKuSHIA9kidJN/c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ng\u002BOXAgFPYfktH5EGUNAZJNXbg57pKuSHIA9kidJN/c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:26:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/bootsnav.5mac8x7d4z.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootsnav.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mac8x7d4z"},{"Name":"integrity","Value":"sha256-vZyX2tElGy5Y2sfp\u002B69QRN3yPcTZEH29VCo6dYFzvCI="},{"Name":"label","Value":"_content/Carvilla/assets/js/bootsnav.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27843"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vZyX2tElGy5Y2sfp\u002B69QRN3yPcTZEH29VCo6dYFzvCI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/bootsnav.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootsnav.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vZyX2tElGy5Y2sfp\u002B69QRN3yPcTZEH29VCo6dYFzvCI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27843"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vZyX2tElGy5Y2sfp\u002B69QRN3yPcTZEH29VCo6dYFzvCI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37045"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/bootstrap.min.lqjz3ug8zc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lqjz3ug8zc"},{"Name":"integrity","Value":"sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8="},{"Name":"label","Value":"_content/Carvilla/assets/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37045"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/custom.5chqi79hmb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5chqi79hmb"},{"Name":"integrity","Value":"sha256-u4fZs25q4yOiO1FAsOS7VBUx2FUdR8EkHYKgtRQEVng="},{"Name":"label","Value":"_content/Carvilla/assets/js/custom.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u4fZs25q4yOiO1FAsOS7VBUx2FUdR8EkHYKgtRQEVng=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/custom.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u4fZs25q4yOiO1FAsOS7VBUx2FUdR8EkHYKgtRQEVng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u4fZs25q4yOiO1FAsOS7VBUx2FUdR8EkHYKgtRQEVng=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/feather.min.2htgug0qj3.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\feather.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2htgug0qj3"},{"Name":"integrity","Value":"sha256-ymg3HOGUntyejL/leWh0cZc1dOWcg9lz8s/hN2EdCyM="},{"Name":"label","Value":"_content/Carvilla/assets/js/feather.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"72836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ymg3HOGUntyejL/leWh0cZc1dOWcg9lz8s/hN2EdCyM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/feather.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\feather.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ymg3HOGUntyejL/leWh0cZc1dOWcg9lz8s/hN2EdCyM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"72836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ymg3HOGUntyejL/leWh0cZc1dOWcg9lz8s/hN2EdCyM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/jquery.6nrii28m09.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6nrii28m09"},{"Name":"integrity","Value":"sha256-jgmqMfOW6kHWmPQ33F/HEl6THUAOsoc/W2jveMHm86Y="},{"Name":"label","Value":"_content/Carvilla/assets/js/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"85580"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022jgmqMfOW6kHWmPQ33F/HEl6THUAOsoc/W2jveMHm86Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jgmqMfOW6kHWmPQ33F/HEl6THUAOsoc/W2jveMHm86Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"85580"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022jgmqMfOW6kHWmPQ33F/HEl6THUAOsoc/W2jveMHm86Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/owl.carousel.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\owl.carousel.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y8l\u002BEeoUOvr8SqEj/gTyjBb8CqhtrA6GU9P4yB\u002B41cE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"42854"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Y8l\u002BEeoUOvr8SqEj/gTyjBb8CqhtrA6GU9P4yB\u002B41cE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/js/owl.carousel.min.p98fb93q5y.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\owl.carousel.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p98fb93q5y"},{"Name":"integrity","Value":"sha256-Y8l\u002BEeoUOvr8SqEj/gTyjBb8CqhtrA6GU9P4yB\u002B41cE="},{"Name":"label","Value":"_content/Carvilla/assets/js/owl.carousel.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42854"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Y8l\u002BEeoUOvr8SqEj/gTyjBb8CqhtrA6GU9P4yB\u002B41cE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/logo/favicon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\logo\favicon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1534"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Carvilla/assets/logo/favicon.vw0mucqiie.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\logo\favicon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vw0mucqiie"},{"Name":"integrity","Value":"sha256-H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A="},{"Name":"label","Value":"_content/Carvilla/assets/logo/favicon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1534"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Jun 2018 13:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
