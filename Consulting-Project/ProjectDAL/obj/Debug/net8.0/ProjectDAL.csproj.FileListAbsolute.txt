@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.deps.json
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.runtimeconfig.json
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\bin\Debug\net8.0\ProjectDAL.pdb
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\refint\ProjectDAL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.pdb
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ProjectDAL.genruntimeconfig.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectDAL\obj\Debug\net8.0\ref\ProjectDAL.dll

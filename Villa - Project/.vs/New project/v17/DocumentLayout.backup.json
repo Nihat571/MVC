@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\New project\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6CD12FE-CA01-4A5D-AA53-62782D570068}|ProjectDAL\\ProjectDAL.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectdal\\models\\villacart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6CD12FE-CA01-4A5D-AA53-62782D570068}|ProjectDAL\\ProjectDAL.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectdal\\models\\villacart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6CD12FE-CA01-4A5D-AA53-62782D570068}|ProjectDAL\\ProjectDAL.csproj|solutionrelative:projectdal\\models\\villacart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64E64DC-BF3E-46C0-93A7-19D9B217F427}|ProjectBL\\ProjectBL.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectbl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64E64DC-BF3E-46C0-93A7-19D9B217F427}|ProjectBL\\ProjectBL.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectbl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64E64DC-BF3E-46C0-93A7-19D9B217F427}|ProjectBL\\ProjectBL.csproj|solutionrelative:projectbl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\viewmodels\\createvillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\viewmodels\\createvillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\viewmodels\\createvillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\viewmodels\\updatevillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\viewmodels\\updatevillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\viewmodels\\updatevillavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\new project\\projectmvc\\projectmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\mvc\\villa - project\\projectmvc\\projectmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E1B7140E-BD74-441B-A7B6-67D96E376194}|ProjectMVC\\ProjectMVC.csproj|solutionrelative:projectmvc\\projectmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -64,39 +64,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "ProjectMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T11:45:04.29Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjectMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjectMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:42:47.676Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VillaCart.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectDAL\\Models\\VillaCart.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectDAL\\Models\\VillaCart.cs",
               "RelativeDocumentMoniker": "ProjectDAL\\Models\\VillaCart.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectDAL\\Models\\VillaCart.cs*",
-              "RelativeToolTip": "ProjectDAL\\Models\\VillaCart.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectDAL\\Models\\VillaCart.cs",
+              "RelativeToolTip": "ProjectDAL\\Models\\VillaCart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T14:23:18.738Z",
               "EditorCaption": ""
@@ -105,118 +103,109 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UpdateVillaVM.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
               "RelativeDocumentMoniker": "ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
               "RelativeToolTip": "ProjectMVC\\ViewModels\\UpdateVillaVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:01:19.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T14:01:19.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
               "RelativeDocumentMoniker": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
               "RelativeToolTip": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:52:14.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T13:52:14.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProjectMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABUBAAAAAAAAAAAAACQBAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:45:44.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T13:45:44.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CreateVillaVM.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ViewModels\\CreateVillaVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ViewModels\\CreateVillaVM.cs",
               "RelativeDocumentMoniker": "ProjectMVC\\ViewModels\\CreateVillaVM.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ViewModels\\CreateVillaVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ViewModels\\CreateVillaVM.cs",
               "RelativeToolTip": "ProjectMVC\\ViewModels\\CreateVillaVM.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:34:48.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T13:34:48.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Program.cs",
               "RelativeDocumentMoniker": "ProjectMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Program.cs",
               "RelativeToolTip": "ProjectMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:18:18.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T13:18:18.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ProjectMVC",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ProjectMVC.csproj",
+              "Title": "ProjectMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ProjectMVC.csproj",
               "RelativeDocumentMoniker": "ProjectMVC\\ProjectMVC.csproj",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\ProjectMVC.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\ProjectMVC.csproj",
               "RelativeToolTip": "ProjectMVC\\ProjectMVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T12:40:34.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:40:34.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T11:45:10.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:45:10.072Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectBL\\Services\\CartService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectBL\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "ProjectBL\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectBL\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectBL\\Services\\CartService.cs",
               "RelativeToolTip": "ProjectBL\\Services\\CartService.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAArwEMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:06:06.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T13:06:06.71Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
               "RelativeDocumentMoniker": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\New project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\MVC\\Villa - Project\\ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
               "RelativeToolTip": "ProjectMVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T12:38:47.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:38:47.563Z"
             }
           ]
         }

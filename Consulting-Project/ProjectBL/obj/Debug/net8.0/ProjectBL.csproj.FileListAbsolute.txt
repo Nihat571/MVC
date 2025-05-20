@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\bin\Debug\net8.0\ProjectBL.deps.json
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\bin\Debug\net8.0\ProjectBL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\bin\Debug\net8.0\ProjectBL.pdb
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\bin\Debug\net8.0\ProjectDAL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\bin\Debug\net8.0\ProjectDAL.pdb
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.csproj.Up2Date
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\refint\ProjectBL.dll
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ProjectBL.pdb
+C:\Users\HP\source\repos\Consulting-Project\ProjectBL\obj\Debug\net8.0\ref\ProjectBL.dll

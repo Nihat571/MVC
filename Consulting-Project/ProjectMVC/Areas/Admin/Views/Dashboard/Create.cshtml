@@ -1,0 +1,31 @@
+﻿@using ProjectMVC.ViewModels
+@model CreateCartVM
+
+<main class="w-100 d-flex flex-column justify-content-center align-items-center" style="height:100vh">
+    <h2>Add New Member</h2>
+    <div class="p-5 bg-success rounded-4 ">
+        <form class="" asp-area="Admin" asp-controller="Dashboard" asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Member Name</label>
+                <input asp-for="Name" class="form-control bg-light" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Member's Specialty</label>
+                <input asp-for="Specialty" class="form-control bg-light" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <span asp-validation-for="Specialty" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Member's Description</label>
+                <input asp-for="Description" class="form-control bg-light" id="exampleInputPassword1">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3 ">
+                <input asp-for="File" type="file" class="form-control" id="exampleInputPassword1">
+               
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+</main>
